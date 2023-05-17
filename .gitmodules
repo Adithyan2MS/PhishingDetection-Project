@@ -4,3 +4,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/Adithyan2MS/PhishingDetection-api
+[submodule "client"]
+	path = client
+	url = https://github.com/Adithyan2MS/PhishingDetection-client
