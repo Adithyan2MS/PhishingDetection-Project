@@ -1,0 +1,3 @@
+[submodule "ML"]
+	path = ML
+	url = https://github.com/Adithyan2MS/PhishingDetectionML
